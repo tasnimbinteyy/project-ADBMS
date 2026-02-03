@@ -6,10 +6,10 @@ It provides a clean and responsive UI for interacting with database-related cont
 
 The project is built using modern frontend tools and deployed using Vercel.
 
-Tech Stack
--Next.js
--React
--TailwindCSS
+Tech Stack: 
+Next.js,
+React,
+TailwindCSS
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
