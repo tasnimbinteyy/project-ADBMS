@@ -1,3 +1,16 @@
+Project Title: Modeling Skill Affinity for Personalized Employment Matching Systems
+
+Project Description
+This project is a frontend interface for an Modeling Skill Affinity for Personalized Employment Matching Systems.  
+It provides a clean and responsive UI for interacting with database-related content and demonstrates frontend development concepts learned in class.
+
+The project is built using modern frontend tools and deployed using Vercel.
+
+Tech Stack
+-Next.js
+-React
+-TailwindCSS
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +47,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+
